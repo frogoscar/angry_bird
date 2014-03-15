@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0A7A64D1-FBAB-1231-512E-789776892E46}") = "myUnityAngryBird12结束", "Assembly-UnityScript.unityproj", "{CCA0B2EA-47F2-101D-766A-1F14A16B185D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA0B2EA-47F2-101D-766A-1F14A16B185D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA0B2EA-47F2-101D-766A-1F14A16B185D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA0B2EA-47F2-101D-766A-1F14A16B185D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA0B2EA-47F2-101D-766A-1F14A16B185D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
